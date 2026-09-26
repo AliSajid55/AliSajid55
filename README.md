@@ -2,7 +2,7 @@
 
 ## AI Engineer | Deep Learning | Computer Vision | GEN AI | Agentic AI
 
-I'm an AI Engineer with a strong focus on **Deep Learning, Computer Vision, NLP, GEN AI and Explainable AI (XAI)**,  
+I'm an AI Engineer with a strong focus on **Deep Learning, Computer Vision, NLP, GEN AI, Agentic AI, and Explainable AI (XAI)**,  
 currently pursuing a **Master’s in Artificial Intelligence**. I work at the intersection of **research and production**,  
 building intelligent systems that are both **interpretable and scalable**.
 
