@@ -55,4 +55,4 @@ focused on scalable and reliable systems.
 
 ---
 
-> *“ Impossible is a word to be found only in the dictionary of fools.”* — Napoleon Bonaparte
+> *“ Impossible is a word to be found only in the dictionary of fools.”* - Napoleon Bonaparte
